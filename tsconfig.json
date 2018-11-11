@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "outDir": "build/dist",
+    "experimentalDecorators": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
